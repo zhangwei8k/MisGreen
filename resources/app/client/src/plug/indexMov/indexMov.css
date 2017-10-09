@@ -1,0 +1,35 @@
+﻿.indexMov{
+    position: absolute; top: 0; left: 0;
+    width: 1920px; height: 1080px;
+}
+.indexMov>div{
+    position: absolute; top: 0; left: 0;
+    width: 1920px; height: 1080px;
+}
+.indexMov .trans{
+    z-index: 99;
+}
+.indexMov .skip{
+    z-index: 98;
+}
+.indexMov .growth{
+    z-index: 2;
+}
+.indexMov .cycle{
+    z-index: 3;
+}
+.indexMov .endImg{
+    z-index: 4;
+}
+.indexMov .lang{
+    z-index: 5;
+}
+.indexMov .trunImg{
+    z-index: 6;
+}
+.indexMov .hotImg{
+    z-index: 7;
+}
+.indexMov .hotClick{
+    z-index: 8;
+}

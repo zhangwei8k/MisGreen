@@ -1,0 +1,63 @@
+<!--plug-menu-->
+<div class="Menu">
+
+    <div class="goodness item">
+        <img class="cn" src="src/plug/menu/img/goodness_cn.png">
+        <img class="en" src="src/plug/menu/img/goodness_en.png">
+    </div>
+
+    <div class="btn btn1 act btnShow seat2 item">
+        <img class="btn1_cn cn" src="src/plug/menu/img/w1_cn.png">
+        <img class="btn1_en en" src="src/plug/menu/img/w1_en.png">
+        <canvas id="menu_light1" width="205" height="61"></canvas>
+        <div class="btnClick"></div>
+    </div>
+
+    <div class="btn btn2 item">
+        <img class="btn2_cn cn" src="src/plug/menu/img/w2_cn.png">
+        <img class="btn2_en en" src="src/plug/menu/img/w2_en.png">
+        <canvas id="menu_light2" width="205" height="61"></canvas>
+        <div class="btnClick"></div>
+    </div>
+    <div class="btn btn3 item">
+        <img class="btn3_cn cn" src="src/plug/menu/img/w3_cn.png">
+        <img class="btn3_en en" src="src/plug/menu/img/w3_en.png">
+        <canvas id="menu_light3" width="205" height="61"></canvas>
+        <div class="btnClick"></div>
+    </div>
+    <div class="btn btn4 btnShow seat3 item">
+        <img class="btn4_cn cn" src="src/plug/menu/img/w5_cn.png">
+        <img class="btn4_en en" src="src/plug/menu/img/w5_en.png">
+        <canvas id="menu_light5" width="205" height="61"></canvas>
+        <div class="btnClick"></div>
+    </div>
+    <div class="btn btn5 btnShow seat4 item">
+        <img class="btn4_cn cn" src="src/plug/menu/img/w4_cn.png">
+        <img class="btn4_en en" src="src/plug/menu/img/w4_en.png">
+        <canvas id="menu_light4" width="205" height="61"></canvas>
+        <div class="btnClick"></div>
+    </div>
+    <div class="btn btn6 item">
+        <img class="btn6_cn cn" src="src/plug/menu/img/w6_cn.png">
+        <img class="btn6_en en" src="src/plug/menu/img/w6_en.png">
+        <canvas id="menu_light6" width="205" height="61"></canvas>
+        <div class="btnClick"></div>
+    </div>
+
+    <div class="btn_home item">
+        <img class="cn" src="src/plug/menu/img/home.png">
+        <img class="en" src="src/plug/menu/img/home.png">
+    </div>
+    <div class="btn_lang item">
+        <img class="cn" src="src/plug/menu/img/en.png">
+        <img class="en" src="src/plug/menu/img/cn.png">
+    </div>
+
+    <div class="btn_goodness item">
+        <div class="btn_goodness1"></div>
+        <div class="btn_goodness2"></div>
+        <div class="btn_goodness3"></div>
+    </div>
+
+</div>
+<!--plug-menu end-->

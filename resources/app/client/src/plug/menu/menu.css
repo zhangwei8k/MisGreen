@@ -1,0 +1,154 @@
+﻿.Menu{
+    height: 180px; width: 1920px;
+    position: absolute; bottom: 0px;
+    z-index: 999; display: none;
+}
+.Menu .goodness{
+    position: absolute;
+    width: 692px; height: 50px;
+    left: 22px; top: 72px;
+}
+.Menu .goodness>img{
+    position: absolute; top: 0px; left:0px;
+}
+.Menu .btn_goodness{
+    position: absolute;
+    width: 692px; height: 33px;
+    left: 22px; top: 72px;
+}
+.Menu .btn_goodness1{
+    position: absolute;
+    width: 252px; height: 50px;
+    left: 22px; top: 0px;
+}
+.Menu .btn_goodness2{
+    position: absolute;
+    width: 153px; height: 50px;
+    left: 275px; top: 0px;
+}
+.Menu .btn_goodness3{
+    position: absolute;
+    width: 237px; height: 50px;
+    left: 430px; top: 0px;
+}
+
+
+.Menu .btn1,
+.Menu .btn2,
+.Menu .btn3,
+.Menu .btn4,
+.Menu .btn5,
+.Menu .btn6,
+.Menu .btn7{
+    position: absolute;
+    background: url("img/btn1.png") no-repeat;
+    width: 211px; height: 68px;
+    display: none;
+}
+
+.Menu .seatT1{
+    left: 668px; top: 72px;
+    display: block;
+}
+.Menu .seatT2{
+    left: 457px; top: 72px;
+    display: block;
+}
+.Menu .seat1{
+    left: 879px; top: 72px;
+    display: block;
+}
+.Menu .seat2{
+    left: 1090px; top: 72px;
+}
+.Menu .seat3{
+    left: 1301px; top: 72px;
+}
+.Menu .seat4{
+    left: 1512px; top: 72px;
+    display: block;
+}
+
+.Menu .btn1.act,
+.Menu .btn2.act,
+.Menu .btn3.act,
+.Menu .btn4.act,
+.Menu .btn5.act,
+.Menu .btn6.act,
+.Menu .btn7.act{
+    background: url("img/btn2.png") no-repeat;
+}
+.Menu .btn1.btnShow,
+.Menu .btn2.btnShow,
+.Menu .btn3.btnShow,
+.Menu .btn4.btnShow,
+.Menu .btn5.btnShow,
+.Menu .btn6.btnShow,
+.Menu .btn7.btnShow{
+    display: block;
+}
+.Menu .btn1 .btnClick{
+    position: absolute;
+    width: 214px; height: 70px;
+    left: 0px; top: 0px;
+    z-index: 99;
+}
+.Menu .btn2 .btnClick{
+    position: absolute;
+    width: 211px; height: 70px;
+    left: 0px; top: 0px;
+    z-index: 99;
+}
+.Menu .btn3 .btnClick{
+    position: absolute;
+    width: 215px; height: 70px;
+    left: 0px; top: 0px;
+    z-index: 99;
+}
+.Menu .btn4 .btnClick{
+    position: absolute;
+    width: 215px; height: 70px;
+    left: 0px; top: 0px;
+    z-index: 99;
+}
+.Menu .btn5 .btnClick{
+    position: absolute;
+    width: 215px; height: 70px;
+    left: 0px; top: 0px;
+    z-index: 99;
+}
+.Menu .btn6 .btnClick{
+    position: absolute;
+    width: 215px; height: 70px;
+    left: 0px; top: 0px;
+    z-index: 99;
+}
+.Menu .btn7 .btnClick{
+    position: absolute;
+    width: 215px; height: 70px;
+    left: 0px; top: 0px;
+    z-index: 99;
+}
+
+.Menu .btn_home{
+    position: absolute;
+    width: 74px; height: 70px;
+    left: 1733px; top: 77px;
+}
+.Menu .btn_lang{
+    position: absolute;
+    width: 74px; height: 70px;
+    left: 1812px; top: 77px;
+}
+.Menu .btn_home>img , .Menu .btn_lang>img{
+    position: absolute; top: 0px; left:0px;
+}
+.Menu .btn1_cn , .Menu .btn1_en , .Menu #menu_light1,
+.Menu .btn2_cn , .Menu .btn2_en , .Menu #menu_light2,
+.Menu .btn3_cn , .Menu .btn3_en , .Menu #menu_light3,
+.Menu .btn4_cn , .Menu .btn4_en , .Menu #menu_light4,
+.Menu .btn5_cn , .Menu .btn5_en , .Menu #menu_light5,
+.Menu .btn6_cn , .Menu .btn6_en , .Menu #menu_light6,
+.Menu .btn7_cn , .Menu .btn7_en , .Menu #menu_light7{
+    position: absolute; top: 0px; left: 0px;
+}

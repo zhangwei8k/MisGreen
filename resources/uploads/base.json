@@ -1,0 +1,12 @@
+{
+	"date": "2016-07-29 17:55:04",
+	"p1":"bg1.png",
+	"p2":"bg2.png",
+	"video":"video.mp4",
+	"subject": [
+		{
+			"pic": "bg3.png"
+		}
+	],
+	"end":"end.png"
+}
